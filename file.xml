@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+<player>
+<firstname>Jordan</firstname>
+<id>1</id>
+<jerseynumber>30</jerseynumber>
+<lastname>Michael</lastname>
+<lastspokenwords>I will be back</lastspokenwords>
+</player>
+<player>
+<firstname>Becks</firstname>
+<id>2</id>
+<jerseynumber>20</jerseynumber>
+<lastname>David</lastname>
+<lastspokenwords>I will make it to the team</lastspokenwords>
+</player>
+<player>
+<firstname>Tendulkar</firstname>
+<id>3</id>
+<jerseynumber>10</jerseynumber>
+<lastname>Sachin</lastname>
+<lastspokenwords>My best is yet to come</lastspokenwords>
+</player>
+</players>
+ 
+(http://localhost:8080/PlayerServer/webresources/com.playerentity.team)
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+<team>
+<league>club</league>
+<teamId>1</teamId>
+<teamname>Chicago Bulls</teamname>
+</team>
+<team>
+<league>club</league>
+<teamId>2</teamId>
+<teamname>Real Madrid</teamname>
+</team>
+<team>
+<league>IPl</league>
+<teamId>3</teamId>
+<teamname>Mumbai Indians</teamname>
+</team>
+</teams>
