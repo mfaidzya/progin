@@ -1,16 +1,10 @@
-progin
+Tugas 1-3 Pemrograman Integratif
 ======
 
-progin tugas
-mkdir ~/Hello-World
-# Creates a directory for your project called "Hello-World" in your user directory
+Anggota Kelompok:
+Rio Arisandi <18211052>
+Muh. Faizd Y.A. <18211006>
 
-cd ~/Hello-World
-# Changes the current working directory to your newly created directory
-
-git init
-# Sets up the necessary Git files
-# Initialized empty Git repository in /Users/you/Hello-World/.git/
-
-touch README
-# Creates a file called "README" in your Hello-World directory
+Tools untuk mengompile : NetBeans 7.4
+Tools yang diperlukan : - JDK IDE 7
+                        - GlassFish Server 4.0
