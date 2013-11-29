@@ -24,7 +24,7 @@ Package playerentities : -Player.java
                          -Team.java
 
 Untuk menampiilkan data html :
-Daftar Pemain : Daftar Pemain.php
-Daftar Klub : Daftar Klub.php
+Daftar Pemain : Daftar Pemain.php menggunakan filePlayer.xml
+Daftar Klub : Daftar Klub.php menggunakan fileTeam.xml
 
 Untuk menampilkana web service lain :
