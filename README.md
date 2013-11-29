@@ -26,3 +26,5 @@ Package playerentities : -Player.java
 Untuk menampiilkan data html :
 Daftar Pemain : Daftar Pemain.php
 Daftar Klub : Daftar Klub.php
+
+Untuk menampilkana web service lain :
