@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+   <teams> 
+       <team> 
+           <league>club</league> 
+           <teamId>1</teamId> 
+           <teamname>Chicago Bulls</teamname> 
+       </team> 
+       <team> 
+           <league>club</league> 
+           <teamId>2</teamId> 
+           <teamname>Real Madrid</teamname> 
+       </team> 
+       <team> 
+           <league>IPl</league> 
+           <teamId>3</teamId> 
+           <teamname>Mumbai Indians</teamname> 
+       </team> 
+   </teams>
